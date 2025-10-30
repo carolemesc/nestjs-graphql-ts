@@ -16,7 +16,7 @@ curl -X POST http://localhost:3000/auth/login -d '{"username": "john", "password
 {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9..."}
 ```
 
-# resposta esperada:
+### resposta esperada:
 
 ```bash
 {
